@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/2667
+
 from collections import deque
 
 n = int(input())
